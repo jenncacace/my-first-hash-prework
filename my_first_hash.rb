@@ -1,5 +1,5 @@
-def my_hash
-  ["Name"] = "Jenn"
+def my_hash 
+["Name"] = "Jenn"
   
 end
 
