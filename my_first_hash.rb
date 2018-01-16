@@ -1,4 +1,5 @@
 def my_hash 
+my_hash= []
 my_hash["Name"] = "Jenn"
   
 end
