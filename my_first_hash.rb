@@ -1,6 +1,5 @@
 def my_hash 
-my_hash= []
-my_hash["Name"] = "Jenn"
+my_hash = ["name" => "Jenn", ]
   
 end
 
